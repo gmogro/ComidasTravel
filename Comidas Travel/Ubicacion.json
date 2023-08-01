@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mercado Artesanal",
+        "direccion": "San Martin 2555",
+        "coordenadas": [
+            -24.791574164003585, 
+            -65.43838986943761
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Sandwicheria La Esquina",
+        "direccion": "Balcarce 499",
+        "coordenadas": [
+            -24.783511633029846, 
+            -65.41188687202826
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Mercado San Miguel",
+        "direccion": "San Martin 123",
+        "coordenadas": [
+            -24.792223749981698, 
+            -65.41340304417679
+        ]
+    }
+]
